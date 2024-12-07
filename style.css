@@ -12,6 +12,7 @@
 
 .container {
   height: 100vh;
+  width: 100%;
   background-color: #141414;
   overflow: hidden;
 }
@@ -22,7 +23,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
-  width: 100vw;
+  width: 100%;
 }
 .logo img {
   width: 6.25rem;
@@ -1351,6 +1352,14 @@ video.active {
   }
 }
 @media only screen and (max-width: 960px) {
+
+  .back-ground-image {
+  background-image: url(/images/formobile.jpeg);
+    height: 100%;
+    width: 100%;
+  }
+
+
   .for-phone-menu-btn {
     display: block;
     z-index: 50000;
