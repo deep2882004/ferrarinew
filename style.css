@@ -132,6 +132,9 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.logo-nav img svg path {
+ fill : rgb(255, 255, 255);
+}
 .logo-background-2 {
   display: flex;
   background-color: #141414;
