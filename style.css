@@ -1394,6 +1394,7 @@ video.active {
   }
 
   .nav-link li a {
+     color: rgb(255, 255, 255);
     line-height: 0.738rem;
     font-size: 0.6775rem;
     letter-spacing: 0.156rem;
