@@ -1359,17 +1359,21 @@ video.active {
     height: 100%;
     width: 100%;
   }
+.search p a {
+ color: rgb(35,43,43);
 
+}
 
   .for-phone-menu-btn {
     display: block;
     z-index: 50000;
   }
+
   .for-phone-menu-btn li {
     line-height: 0.638rem;
     font-size: 0.5775rem;
     letter-spacing: 0.156rem;
-    color: white;
+    color: rgb(35,43,43);
     font-weight: 400;
     text-transform: uppercase;
   }
